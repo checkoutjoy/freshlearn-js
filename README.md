@@ -1,6 +1,7 @@
 # freshlearn-js
 
-TypeScript SDK for the Freshlearn API
+TypeScript SDK for the Freshlearn API used by [checkoutjoy.com](https://checkoutjoy.com). Used to manage members, enrollments, and courses in Freshlearn. See [Freshlearn API Documentation](https://freshlearn.com/support/api) for more details.
+
 
 [![CI/CD](https://github.com/checkoutjoy/freshlearn-js/actions/workflows/ci.yml/badge.svg)](https://github.com/checkoutjoy/freshlearn-js/actions/workflows/ci.yml)
 [![npm version](https://badge.fury.io/js/freshlearn-js.svg)](https://badge.fury.io/js/freshlearn-js)
