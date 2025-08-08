@@ -196,6 +196,10 @@ if (result.success) {
 
 This SDK is written in TypeScript and provides full type definitions for all API methods and responses.
 
+## Author
+
+Created and maintained by [checkoutjoy.com](https://checkoutjoy.com).
+
 ## License
 
 MIT
